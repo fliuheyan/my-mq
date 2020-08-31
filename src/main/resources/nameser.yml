@@ -1,0 +1,4 @@
+namingServer:
+  port: 9876
+test:
+  desc: 'test'
